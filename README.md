@@ -27,7 +27,7 @@ Python · Nmap · Burp Suite · Linux · Windows / Active Directory fundamentals
 Networking fundamentals · pytest · Git · Report writing
 
 ## Web Security (PortSwigger Web Security Academy)
-Completed: Access Control / IDOR, GraphQL, most XSS, 13/17 SQL Injection labs
+Completed: Access Control / IDOR, GraphQL, most XSS, SQL Injection labs
 
 ## Contact
 - LinkedIn: [your LinkedIn URL]
